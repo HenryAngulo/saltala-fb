@@ -1,0 +1,3 @@
+rootProject.name = 'saltala'
+
+include ':app'
