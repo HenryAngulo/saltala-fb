@@ -10,7 +10,7 @@ export default class PostList extends Component {
     }
 
     makeRemoteRequest() {
-
+    //Already invalidated token
         const token = 'EAACEdEose0cBAB8J1vc1ZAOKt3KoDrLnOBaniiZBPS2DZBoqKxkZBT9mszXFypjIqZAYD6NmnVBA6UOWMvLQoghnSgmVzVoKNMH1pKMNfFWoa62nV94UEZCkJYWvV8wyBIxSkCDdb5AeOQt7fzMzBQnfVUd9YMZAm67YfFZAXr63cKl9c4mJIxQppCBUa3huiSkZD'
         let array = [];
         
